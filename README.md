@@ -1,0 +1,6 @@
+- Scriptcorrelaciones: script de R utilizado para el análisis de las redes de correlaciones en bacterias y hongos
+- ScripITSsuelos: script utilizado para la asignación taxonómica, para los análisis alfa y beta y los análisis de correlación de hongos de suelo.
+- ScriptITSsemillas: script utilizado para la asignación taxonómica, para los análisis alfa y beta y los análisis de correlación de hongos de semillas.
+- ScriptMuestrasSemillas16S: script utilizado para la asignación taxonómica, para los análisis alfa y beta y los análisis de correlación de bacterias de semillas.
+- ScriptMuestrasSuelos16S: script utilizado para la asignación taxonómica, para los análisis alfa y beta y los análisis de correlación de bacterias de suelos.
+- ScriptASVtoOTU: script utilizado para pasar de ASVs a OTUs en las muestras de bacterias y hongos en suelos y semillas. 
